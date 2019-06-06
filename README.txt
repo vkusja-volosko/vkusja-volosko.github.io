@@ -90,7 +90,7 @@ Instructions:
  		The actual gallery function is powered by my Poptrox plugin. For info on
  		how that works, go here: github.com/ajlkn/jquery.poptrox
 
-		Each image (the '...' bit in the above examples) should look like this:
+		Each image (the '...' bit in the above examples) should look like this: 
 
 			<article class="from-(direction)">
 				<a href="path/to/fullsize.jpg" class="image fit">
